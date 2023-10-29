@@ -11,7 +11,6 @@ QRcode = pyqrcode.create(string)
 QRcode.png('qr_image', scale=6)
 
 
-
 #print(QRcode)
 
 
